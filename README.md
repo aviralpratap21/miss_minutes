@@ -23,7 +23,7 @@
 <h2>How to Use</h2>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/aviralpratap21/PRODIGY_WD_02</code></pre>
+    <pre><code>git clone https://github.com/aviralpratap21/miss_minutes</code></pre>
     <li>Open the <code>index.html</code> file in any modern browser.</li>
     <li>Use the buttons to start, stop, and reset the stopwatch.</li>
 </ol>
